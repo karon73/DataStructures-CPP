@@ -12,7 +12,7 @@ I built a dynamic array that handles its own memory allocation. Here are the tec
 * **Memory Optimization:** Added a `shrink_to_fit` method because leaving unused RAM allocated is a bad habit.
 * **Operations:** Supports `push_back`, `pop_back`, `insert`, and `erase` with proper index boundary checks.
 
-## 📊 Big-O Complexity
+##  Big-O Complexity
 
 Here is the time complexity breakdown for the array operations:
 
